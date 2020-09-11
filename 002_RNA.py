@@ -10,3 +10,4 @@ with open('rosalind_rna.txt') as infile:
 	infile=infile.readline().replace('T','U')
 	print(infile)
 
+	print(infile)
