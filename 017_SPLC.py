@@ -4,7 +4,7 @@
 Problem Title: RNA splicing
 Rosalind ID: SPLC
 Rosalind #: 017
-URL: http://rosalind.info/problems/perm/
+URL: http://rosalind.info/problems/splc/
 '''
 
 
@@ -53,10 +53,10 @@ with open('rosalind_splc.txt') as infile:
             tempString=''
             i+=1
         elif(i==len(infile)-1):
-            inputStrings.append(infile[i]) #Input string is a list containing ALL the sequences quary and motif both
+            inputStrings.append(infile[i]) 
             i+=1
         else:
-            tempString +=infile[i] #I can add a list elements by not assigning specifics just saying I to a string.
+            tempString +=infile[i] 
             i+=1
     inputStrings[0] = inputStrings[0].replace('\n', '')
     i=1
