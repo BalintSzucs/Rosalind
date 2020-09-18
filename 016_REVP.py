@@ -4,7 +4,7 @@
 Problem Title: Locating Restriction Sites
 Rosalind ID: REVP
 Rosalind #: 016
-URL: http://rosalind.info/problems/perm/
+URL: http://rosalind.info/problems/revp/
 '''
 
 def reverstranslation(s):
