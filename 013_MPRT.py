@@ -3,7 +3,7 @@
 Problem Title: Finding a Protein Motif
 Rosalind ID: MPRT
 Rosalind #: 013
-URL: http://rosalind.info/problems/lcsm/
+URL: http://rosalind.info/problems/mprt/
 
 '''
 
